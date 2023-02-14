@@ -1,5 +1,5 @@
 ### Hi There! 
-I am Karina Silveira, studying JavaScrip
+I am Karina Silveira, studying JavaScript
 
 <!--
 **Karinasilveira/Karinasilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
